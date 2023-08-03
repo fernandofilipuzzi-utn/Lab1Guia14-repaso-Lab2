@@ -1,2 +1,3 @@
-# Lab1Guia14-repaso-Lab2
-Repaso laboratorio 1 - ventanas modales, agregación y composición, arreglos, búsquedas, ordenamiento
+# Repaso Laboratorio 2     (Guía 14 de Laboratorio 1)
+Repaso de ventanas modales, agregación y composición, arreglos, búsquedas, ordenamiento
+
